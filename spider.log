@@ -1,0 +1,67 @@
+INFO:root:fetch->Running thread 0
+INFO:root:fetch->Running thread 1
+INFO:root:fetch->Running thread 2
+INFO:root:read_content->2 - getting url: http://www.sina.com.cn/
+INFO:root:read_content->1 - getting url: http://www.baidu.com
+INFO:root:read_content->0 - getting url: http://www.bing.com
+WARNING:root:enc_dec->encode detection error unknown encoding: web_encoding
+INFO:root:fetch->2 - downloading: http://i3.sinaimg.cn/home/2013/0331/U586P30DT20130331093840.png
+INFO:root:fetch->2 - downloading: http://i0.sinaimg.cn/cha/images/c.gif
+INFO:root:fetch->1 - downloading: http://n.sinaimg.cn/cece9e13/20150702/0702_zyc_iNiuguLogo.jpg
+INFO:root:fetch->0 - downloading: http://n.sinaimg.cn/cece9e13/20150703/0702_zyc_STPLogo.jpg
+INFO:root:fetch->2 - downloading: http://i3.sinaimg.cn/home/2015/0910/U8877P30DT20150910141814.jpg
+INFO:root:fetch->2 - downloading: http://i3.sinaimg.cn/home/2015/0909/U8059P30DT20150909222508.jpg
+INFO:root:fetch->0 - downloading: http://i1.sinaimg.cn/home/2015/0910/U10733P30DT20150910091034.jpg
+INFO:root:fetch->0 - downloading: http://i2.sinaimg.cn/home/2015/0910/U10733P30DT20150910090630.jpg
+INFO:root:fetch->0 - downloading: http://i1.sinaimg.cn/home/2015/0910/U7676P30DT20150910125759.jpg
+INFO:root:fetch->2 - downloading: http://i1.sinaimg.cn/home/2015/0910/U7676P30DT20150910085754.jpg
+INFO:root:fetch->0 - downloading: http://i2.sinaimg.cn/home/2015/0910/U7676P30DT20150910165132.jpg
+INFO:root:fetch->1 - downloading: http://i3.sinaimg.cn/home/2015/0910/U7676P30DT20150910103559.jpg
+INFO:root:fetch->2 - downloading: http://i2.sinaimg.cn/home/2015/0910/U7676P30DT20150910103716.jpg
+INFO:root:fetch->0 - downloading: http://i3.sinaimg.cn/home/2015/0910/U7676P30DT20150910103830.jpg
+INFO:root:fetch->1 - downloading: http://i3.sinaimg.cn/home/2015/0910/U12863P30DT20150910094336.jpg
+INFO:root:fetch->2 - downloading: http://i2.sinaimg.cn/home/2015/0910/U7676P30DT20150910103923.jpg
+INFO:root:fetch->0 - downloading: http://i1.sinaimg.cn/home/2015/0910/U12863P30DT20150910093223.jpg
+INFO:root:fetch->0 - downloading: http://i3.sinaimg.cn/home/2015/0910/U6604P30DT20150910093243.jpg
+INFO:root:fetch->1 - downloading: http://i1.sinaimg.cn/home/2015/0910/U6604P30DT20150910093250.jpg
+INFO:root:fetch->2 - downloading: http://i1.sinaimg.cn/home/2015/0910/U6604P30DT20150910093258.jpg
+INFO:root:fetch->0 - downloading: http://i2.sinaimg.cn/home/2015/0910/U6604P30DT20150910093310.jpg
+INFO:root:fetch->1 - downloading: http://i0.sinaimg.cn/home/2015/0910/U6604P30DT20150910093316.jpg
+INFO:root:fetch->2 - downloading: http://i1.sinaimg.cn/home/2015/0910/U6604P30DT20150910093236.jpg
+INFO:root:fetch->0 - downloading: http://i0.sinaimg.cn/home/2015/0910/U10600P30DT20150910140806.jpg
+INFO:root:fetch->1 - downloading: http://i1.sinaimg.cn/home/2015/0910/U10600P30DT20150910130147.jpg
+INFO:root:fetch->1 - downloading: http://i1.sinaimg.cn/home/2015/0910/U10600P30DT20150910125952.jpg
+INFO:root:fetch->2 - downloading: http://i0.sinaimg.cn/home/2015/0910/U10600P30DT20150910131222.jpg
+INFO:root:fetch->0 - downloading: http://i0.sinaimg.cn/home/2015/0910/U10600P30DT20150910143236.jpg
+INFO:root:fetch->1 - downloading: http://i2.sinaimg.cn/home/2015/0910/U10600P30DT20150910130922.jpg
+INFO:root:fetch->2 - downloading: http://i3.sinaimg.cn/home/2015/0909/U1421P30DT20150909151743.jpg
+INFO:root:fetch->0 - downloading: http://i3.sinaimg.cn/home/2015/0909/U1421P30DT20150909151806.jpg
+INFO:root:fetch->1 - downloading: http://i3.sinaimg.cn/home/2015/0909/U1421P30DT20150909151837.jpg
+INFO:root:fetch->2 - downloading: http://i1.sinaimg.cn/home/2015/0826/U5642P30DT20150826100418.jpg
+INFO:root:fetch->0 - downloading: http://i0.sinaimg.cn/home/2015/0826/U5642P30DT20150826100448.jpg
+INFO:root:fetch->1 - downloading: http://i0.sinaimg.cn/home/2015/0826/U5642P30DT20150826100507.jpg
+INFO:root:fetch->2 - downloading: http://i0.sinaimg.cn/home/2015/0910/U12708P30DT20150910100946.png
+INFO:root:fetch->0 - downloading: http://i1.sinaimg.cn/home/2015/0910/U12708P30DT20150910101214.png
+INFO:root:fetch->1 - downloading: http://i0.sinaimg.cn/home/2015/0910/U12708P30DT20150910102513.png
+INFO:root:fetch->2 - downloading: http://i2.sinaimg.cn/home/2015/0910/U12708P30DT20150910102843.png
+INFO:root:fetch->0 - downloading: http://i3.sinaimg.cn/home/2015/0910/U12708P30DT20150910103029.png
+INFO:root:fetch->1 - downloading: http://i3.sinaimg.cn/home/2015/0910/U12708P30DT20150910103335.png
+INFO:root:fetch->1 - downloading: http://i1.sinaimg.cn/home/2015/0910/U11615P30DT20150910103742.jpg
+INFO:root:fetch->2 - downloading: http://i1.sinaimg.cn/home/2015/0910/U8059P30DT20150910112629.jpg
+INFO:root:fetch->2 - downloading: http://i0.sinaimg.cn/home/2015/0910/U10743P30DT20150910162545.jpg
+INFO:root:fetch->1 - downloading: http://i3.sinaimg.cn/home/2015/0910/U10743P30DT20150910162500.jpg
+INFO:root:fetch->1 - downloading: http://i3.sinaimg.cn/home/2015/0910/U3616P30DT20150910110649.jpg
+INFO:root:fetch->0 - downloading: http://i2.sinaimg.cn/ty/temp/up/2015-09-01/U3616P6T64D98903F1323DT20150910111318.jpg
+INFO:root:fetch->2 - downloading: http://i1.sinaimg.cn/home/2015/0910/U3616P30DT20150910110940.jpg
+INFO:root:fetch->0 - downloading: http://i2.sinaimg.cn/home/2015/0910/U8059P30DT20150910103752.jpg
+INFO:root:fetch->0 - downloading: http://i2.sinaimg.cn/home/2015/0909/U5053P30DT20150909142840.jpg
+INFO:root:fetch->2 - downloading: http://i2.sinaimg.cn/home/2015/0910/U8059P30DT20150910103901.jpg
+INFO:root:fetch->1 - downloading: http://i1.sinaimg.cn/home/main/blk/d.gif
+INFO:root:fetch->0 - downloading: http://i3.sinaimg.cn/home/2015/0910/U2457P30DT20150910151408.jpg
+INFO:root:fetch->2 - downloading: http://d3.sina.com.cn/201508/19/1319511.jpg
+INFO:root:fetch->0 - downloading: http://d4.sina.com.cn/201508/19/1319512.jpg
+INFO:root:fetch->1 - downloading: http://src.house.sina.com.cn/imp/imp/deal/1b/7b/e/1bc76c27775e58a7ce72f0f23f6_p24_mk24.jpg
+INFO:root:fetch->1 - downloading: http://src.house.sina.com.cn/imp/imp/deal/06/de/f/52e46bb8dd713f3ddde4ab702ca_p24_mk24.jpg
+INFO:root:fetch->0 - downloading: http://i3.sinaimg.cn/home/2015/0824/U9906P30DT20150824162422.jpg
+INFO:root:fetch->2 - downloading: http://i3.sinaimg.cn/dy/deco/2013/0305/d.gif
+INFO:root:multi_thread->mini spider finished
